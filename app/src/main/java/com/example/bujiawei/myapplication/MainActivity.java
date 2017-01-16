@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        Double.parseDouble("2222222");
+        Double.parseDouble("aaaa");
         Double.parseDouble("22234442");
         Double.parseDouble("2222rrr2");
         Double.parseDouble("2222222");

@@ -17,9 +17,13 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+<<<<<<< HEAD
         Double.parseDouble("2222222");
         Double.parseDouble("22234442");
         Double.parseDouble("2222rrr2");
         Double.parseDouble("2222222");
+=======
+        Double.parseDouble("");
+>>>>>>> 660100e44b7f459a239322fd5ab0d7a00424f208
     }
 }
