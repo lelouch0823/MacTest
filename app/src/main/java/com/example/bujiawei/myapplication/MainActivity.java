@@ -14,6 +14,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        Double.parseDouble("dhadahkdh");
+
+
+
+        Double.parseDouble("");
     }
 }
